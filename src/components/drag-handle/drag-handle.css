@@ -1,0 +1,12 @@
+.handlerWrapper {
+    padding: 0.5rem;
+}
+
+.handler {
+    height: 20px;
+    width: 20px;
+    background: yellow;
+    border: 1px solid black;
+    flex: 0 0 auto;
+    cursor: move;
+}

@@ -1,0 +1,9 @@
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.row-text {
+    flex: 0 0 auto;
+    font-weight: bold;
+}
