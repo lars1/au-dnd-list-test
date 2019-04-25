@@ -1,12 +1,3 @@
 # au-dnd-list-test
 
-Just reproducing a performance problem with DnD on a long list containing quite a few child components. 
-
-Keywords: aurelia, bcx-aurelia-reorderable-repeat
-
-## Knobs you can turn
-
-Removing filler-components in row-item.html speeds things up. 
-
-Reducing the amount of items created in app.js speeds things up significantly. 
-
+Just a demo of [issue #8 on bcx-aurelia-reorderable-repeat](https://github.com/buttonwoodcx/bcx-aurelia-reorderable-repeat/issues/8) which has since been solved.
